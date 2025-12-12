@@ -10,7 +10,7 @@ from sklearn.model_selection import KFold, GridSearchCV
 from sklearn.linear_model import Lasso
 
 def load_data(filepath):
-    data = pd.read_csv(filepath, encoding = "latin1")
+    data = pd.read_csv(filepath, encoding = "latin1", low_memory = False)
     print(data.head())
     print(data.info())
     return data
@@ -69,10 +69,6 @@ def numerical_correlation_matrix(feature):
     sns.heatmap(corr_df, annot = True, fmt = '.2f', cmap = 'coolwarm')
     plt.show()
 
-def numerical_correlation_pairplot(feature):
-    sns.pairplot(feature)
-    plt.show()
-
 def label_encoder(data, feature):
     le = LabelEncoder()
     data[feature] = le.fit_transform(data[feature])
@@ -99,7 +95,7 @@ def feature_selection(model, param_grid, X_train, y_train):
                          scoring = {"neg_mse": "neg_mean_squared_error", 
                                     "r2": "r2"}, 
                          refit = "neg_mse",
-                         verbose = 3)
+                         verbose = 0)
     model.fit(X_train, y_train)
 
     coef = pd.Series(model.best_estimator_.coef_, index = X_train.columns)
@@ -144,9 +140,6 @@ if __name__ == "__main__":
 
     # visualize the numerical correlation 
     numerical_correlation_matrix(data.drop(['Type'], axis = 1))
-
-    # visualize the numerical correlation pairplot
-    numerical_correlation_pairplot(data.drop(['Type'], axis = 1))
 
     # convert categorical features into labels 
     data = label_encoder(data, "Type")
