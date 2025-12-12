@@ -1,0 +1,225 @@
+Food Menu,Calories,Total Fat,Saturated Fat,Trans Fat,Cholesterol,Sodium,Total Carbohydrates,Dietary Fiber,Sugars,Added Sugars,Protein
+"McValue, Chicken McNuggets, 4 Piece",170,10,1.5,0,25,340,10,0,0,0,9
+"McValue, Chicken McNuggets, 6 Piece",250,15,2.5,0,40,500,15,0,0,0,14
+"McValue, Chicken McNuggets, 10 Piece",410,24,4,0,65,850,26,1,0,0,23
+"McValue, Chicken McNuggets, 20 Piece",830,49,8,0,125,"1,700",51,2,0,0,46
+"McValue, Chicken McNuggets, 40 Piece","1,650",98,16,0.5,255,"3,400",102,4,1,0,92
+"McValue, Double Cheeseburger",440,24,11,1.5,85,"1,120",34,2,6,5,25
+"McValue, Hash Browns",140,8,1,0,0,310,18,2,0,0,2
+"McValue, McChicken",390,21,3.5,0,40,560,38,1,4,4,14
+"McValue, Sausage Biscuit",460,30,13,0,35,"1,090",37,2,2,1,11
+"McValue, Sausage Burrito",310,17,7,0,170,800,25,1,2,1,13
+"McValue, Sausage McMuffin",400,26,10,0.5,55,760,29,2,2,1,14
+"McValue, The McChicken $5 Meal Deal",990,42,7,0,65,"1,140",132,4,57,57,26
+"McValue, The McDouble $5 Meal Deal",990,41,12,1,95,"1,500",126,5,59,58,34
+"McValue, World Famous Fries, Kids",110,5,0.5,0,0,90,14,1,0,0,2
+"McValue, World Famous Fries, Large",480,23,3,0,0,400,65,6,0,0,7
+"McValue, World Famous Fries, Medium",320,15,2,0,0,260,43,4,0,0,5
+"McValue, World Famous Fries, Small",230,11,1.5,0,0,190,31,3,0,0,3
+"Bacon, Egg & Cheese Bagel",590,30,12,0.5,245,"1,320",56,2,7,2,25
+"Bacon, Egg & Cheese Biscuit",460,26,13,0,215,"1,330",39,2,3,1,17
+"Bacon, Egg & Cheese Biscuit Meal",610,34,14,0,215,"1,650",58,4,3,1,19
+"Bacon, Egg & Cheese McGriddles",430,21,9,0,215,"1,230",44,2,15,13,17
+"Bacon, Egg & Cheese McGriddles Meal",580,29,10,0,215,"1,550",63,4,15,13,19
+Bagel (Plain),270,3.5,0.5,0,0,550,51,2,5,2,9
+Big Breakfast,"1,060",48,18,0,485,"1,540",131,3,56,54,26
+Big Breakfast with Hotcakes,"1,340",63,24,0.5,525,"2,070",158,5,48,41,36
+Egg & Cheese Bagel,520,24,10,0.5,230,"1,100",55,2,6,2,21
+Egg McMuffin,310,13,6,0,250,770,30,2,3,1,17
+Egg McMuffin Meal,460,21,7,0,250,"1,090",49,4,3,1,19
+Fruit & Maple Oatmeal,320,4.5,1.5,0,<5,150,64,4,31,18,6
+Hash Browns,140,8,1,0,0,310,18,2,0,0,2
+Hotcakes,580,15,6,0,40,530,101,2,45,40,9
+Hotcakes & Sausage,770,33,12,0,75,810,102,2,46,40,15
+"Sausage, Egg & Cheese Bagel",710,42,16,0.5,265,"1,380",56,2,6,2,27
+"Sausage, Egg & Cheese McGriddles",550,33,13,0,235,"1,290",44,2,15,13,19
+"Sausage, Egg & Cheese McGriddles Meal",700,41,14,0,235,"1,610",63,4,15,13,21
+Sausage Biscuit,460,30,13,0,35,"1,090",37,2,2,1,11
+Sausage Biscuit with Egg,530,35,15,0,225,"1,190",38,2,3,1,17
+Sausage Biscuit with Egg Meal,680,43,16,0,225,"1,510",57,4,3,1,19
+Sausage Burrito,310,17,7,0,170,800,25,1,2,1,13
+Sausage Burrito Meal,460,25,8,0,170,"1,120",44,3,2,1,15
+Sausage McGriddles,430,24,9,0,35,990,41,2,14,13,11
+Sausage McGriddles Meal,580,32,10,0,35,"1,310",60,4,14,13,13
+Sausage McMuffin,400,26,10,0.5,55,760,29,2,2,1,14
+Sausage McMuffin with Egg,480,31,12,0.5,280,830,30,2,2,1,20
+Sausage McMuffin with Egg Meal,630,39,13,0.5,280,"1,150",49,4,2,1,22
+"Steak, Egg & Cheese Bagel",680,35,15,1.5,275,"1,510",57,3,7,2,34
+Bacon Quarter Pounder with Cheese,630,35,15,1.5,115,"1,470",43,3,10,8,36
+Big Mac,580,34,11,1,85,"1,060",45,3,7,5,25
+Cheeseburger,300,13,6,0.5,40,720,31,2,6,5,15
+Double Cheeseburger,440,24,11,1.5,85,"1,120",34,2,6,5,25
+Double Quarter Pounder with Cheese,740,42,20,2.5,165,"1,360",43,2,10,8,48
+"Hamburger, The Classic McDonald's Burger",250,9,3.5,0,30,510,30,1,5,5,12
+McDouble,390,20,9,1,70,920,32,2,6,5,22
+Quarter Pounder with Cheese,520,26,12,1.5,95,"1,140",42,2,10,8,30
+Quarter Pounder with Cheese Deluxe,630,37,14,1.5,105,"1,210",44,3,11,8,30
+Deluxe McCrispy,530,26,4,0,65,"1,050",48,2,10,7,27
+Filet-O-Fish,380,19,4,0,30,580,38,1,4,4,16
+McChicken,390,21,3.5,0,40,560,38,1,4,4,14
+McCrispy,470,20,5,0,70,"1,140",46,1,9,7,26
+Spicy Deluxe McCrispy,530,26,4,0,65,"1,200",49,2,10,8,27
+Spicy McCrispy,530,26,4,0,65,"1,320",48,2,9,8,27
+"Chicken McNuggets, 4 Piece",170,10,1.5,0,25,340,10,0,0,0,9
+"Chicken McNuggets, 6 Piece",250,15,2.5,0,40,500,15,0,0,0,14
+"Chicken McNuggets, 10 Piece",410,24,4,0,65,850,26,1,0,0,23
+"Chicken McNuggets, 20 Piece",830,49,8,0,125,"1,700",51,2,0,0,46
+"Chicken McNuggets, 40 Piece","1,650",98,16,0.5,255,"3,400",102,4,1,0,92
+"McCrispy Strips, 3 Piece",350,17,2.5,0,95,"1,100",18,1,1,0,30
+"McCrispy Strips, 4 Piece",460,23,3.5,0,125,"1,470",24,2,1,1,40
+Apple Slices,15,0,0,0,0,0,4,0,3,0,0
+Creamy Chili McCrispy Strip Dip,110,11,2,0,10,250,3,0,2,2,0
+Creamy Ranch Sauce,110,12,2,0,<5,160,1,0,1,0,0
+Honey,50,0,0,0,0,0,12,0,11,11,0
+Honey Mustard Sauce,60,3.5,0.5,0,<5,125,6,1,4,4,0
+Ketchup Packet,10,0,0,0,0,90,2,0,2,2,0
+Mayonnaise Packet,90,10,1.5,0,10,60,0,0,0,0,0
+Mustard Packet,0,0,0,0,0,70,0,0,0,0,0
+Spicy Buffalo Sauce,30,3,0,0,0,520,1,0,0,0,0
+Sweet 'N Sour Sauce,50,0,0,0,0,160,11,0,10,9,0
+Tangy Barbeque Sauce,45,0,0,0,0,260,11,0,9,9,0
+"World Famous Fries, Kids",110,5,0.5,0,0,90,14,1,0,0,2
+"World Famous Fries, Large",480,23,3,0,0,400,65,6,0,0,7
+"World Famous Fries, Medium",320,15,2,0,0,260,43,4,0,0,5
+"World Famous Fries, Small",230,11,1.5,0,0,190,31,3,0,0,3
+4 Piece Chicken McNuggets Happy Meal,400,17,3.5,0,35,510,40,1,14,0,19
+6 Piece Chicken McNuggets Happy Meal,480,22,4.5,0,50,670,45,1,14,0,24
+Hamburger Happy Meal,480,16,6,0,40,680,60,2,19,5,22
+Baked Apple Pie,230,11,6,0,0,100,33,1,14,13,2
+Chocolate Chip Cookie,170,8,4,0,10,95,22,1,15,15,2
+"Chocolate Shake, Large",800,20,13,1,80,390,134,1,106,86,18
+"Chocolate Shake, Medium",650,17,11,1,65,310,107,1,85,68,15
+"Chocolate Shake, Small",520,14,9,0.5,55,250,85,0,67,54,12
+"HERSHEY’S S’mores McFlurry, Mini",280,9,5,0,20,140,42,0,34,28,6
+"HERSHEY’S S’mores McFlurry, Regular",460,15,9,0,35,240,70,1,57,47,10
+Hot Caramel Sundae,330,7,4.5,0,30,150,58,0,41,34,7
+Hot Fudge Sundae,330,10,7,0,25,170,51,2,44,36,8
+"McFlurry with M&M'S Candies, Mini",340,12,8,0,20,95,51,1,45,38,7
+"McFlurry with M&M'S Candies, Regular",570,19,12,0,35,170,85,2,74,62,11
+"McFlurry with OREO Cookies, Mini",240,8,4,0,20,125,38,0,28,23,5
+"McFlurry with OREO Cookies, Regular",410,13,7,0,35,210,64,1,48,39,10
+"Strawberry Shake, Large",850,21,13,1,80,310,143,0,107,86,19
+"Strawberry Shake, Medium",600,16,10,0.5,60,210,99,0,74,59,13
+"Strawberry Shake, Small",470,13,8,0.5,50,160,77,0,58,46,10
+Vanilla Cone,200,5,3,0,20,80,33,0,23,17,5
+"Vanilla Shake, Large",780,19,12,1,75,360,133,0,85,67,17
+"Vanilla Shake, Medium",570,15,9,0.5,60,260,97,0,62,48,12
+"Vanilla Shake, Small",480,13,8,0.5,50,210,80,0,51,40,10
+"Americano, Large",5,0,0,0,0,15,1,0,0,0,0
+"Americano, Medium",5,0,0,0,0,10,1,0,0,0,0
+"Americano, Small",0,0,0,0,0,10,1,0,0,0,0
+"McCafe Cappuccino, Large",200,10,6,0,40,130,18,0,14,0,11
+"McCafe Cappuccino, Medium",160,7,4.5,0,30,100,14,0,11,0,9
+"McCafe Cappuccino, Small",110,5,3.5,0,20,75,10,0,8,0,6
+"McCafe Caramel Cappuccino, Large",340,8,5,0,35,460,55,0,49,36,11
+"McCafe Caramel Cappuccino, Medium",260,6,3.5,0,25,370,44,0,39,30,8
+"McCafe Caramel Cappuccino, Small",210,4.5,3,0,20,290,35,0,31,24,7
+"McCafe Caramel Frappe, Large",650,26,17,1,80,115,94,1,84,70,11
+"McCafe Caramel Frappe, Medium",490,20,13,1,60,90,70,1,62,52,8
+"McCafe Caramel Frappe, Small",420,17,11,0.5,55,80,60,1,53,44,7
+"McCafe Caramel Latte, Large",390,11,6,0,45,490,60,0,52,36,14
+"McCafe Caramel Latte, Medium",320,8,5,0,35,400,49,0,43,30,11
+"McCafe Caramel Latte, Small",250,7,4,0,25,320,39,0,34,24,9
+"McCafe Caramel Macchiato, Large",400,10,6,0,40,490,62,0,53,38,14
+"McCafe Caramel Macchiato, Medium",320,8,5,0,30,400,51,0,44,32,11
+"McCafe Caramel Macchiato, Small",260,6,4,0,25,320,41,0,35,26,9
+"McCafe French Vanilla Cappuccino, Large",340,8,5,0,30,115,58,0,43,31,9
+"McCafe French Vanilla Cappuccino, Medium",260,6,3.5,0,25,80,47,0,34,25,7
+"McCafe French Vanilla Cappuccino, Small",210,4.5,3,0,20,65,37,0,28,20,5
+"McCafe French Vanilla Latte, Large",400,11,6,0,40,150,63,0,47,31,12
+"McCafe French Vanilla Latte, Medium",320,8,5,0,35,115,52,0,38,25,10
+"McCafe French Vanilla Latte, Small",250,6,4,0,25,90,41,0,30,20,8
+"McCafe Iced Caramel Coffee, Large",280,8,5,0,30,410,46,0,38,36,5
+"McCafe Iced Caramel Coffee, Medium",200,6,4,0,25,280,31,0,26,24,3
+"McCafe Iced Caramel Coffee, Small",150,5,3,0,15,210,23,0,19,18,2
+"McCafe Iced Caramel Latte, Large",330,8,4.5,0,30,460,54,0,48,36,11
+"McCafe Iced Caramel Latte, Medium",220,5,3,0,20,300,36,0,32,24,7
+"McCafe Iced Caramel Latte, Small",180,4.5,2.5,0,20,240,28,0,25,18,6
+"McCafe Iced Caramel Macchiato, Large",360,9,5,0,35,480,59,0,51,38,12
+"McCafe Iced Caramel Macchiato, Medium",240,6,3.5,0,25,320,41,0,35,26,8
+"McCafe Iced Caramel Macchiato, Small",200,5,3,0,20,250,33,0,28,20,7
+"McCafe Iced Coffee, Large",270,8,5,0,30,65,47,0,38,36,2
+"McCafe Iced Coffee, Medium",190,6,4,0,20,50,32,0,25,23,2
+"McCafe Iced Coffee, Small",150,5,3,0,15,35,25,0,20,19,1
+"McCafe Iced French Vanilla Coffee, Large",280,8,5,0,30,65,49,0,33,31,2
+"McCafe Iced French Vanilla Coffee, Medium",200,6,4,0,20,50,33,0,22,20,2
+"McCafe Iced French Vanilla Coffee, Small",150,5,3,0,15,35,25,0,17,15,1
+"McCafe Iced French Vanilla Latte, Large",330,8,4.5,0,30,115,57,0,42,31,9
+"McCafe Iced French Vanilla Latte, Medium",220,5,3,0,20,75,38,0,28,20,6
+"McCafe Iced French Vanilla Latte, Small",180,4.5,2.5,0,20,65,30,0,22,15,5
+"McCafe Iced Latte, Large",170,8,5,0,30,115,15,0,12,0,9
+"McCafe Iced Latte, Medium",120,6,3.5,0,20,80,11,0,8,0,6
+"McCafe Iced Latte, Small",80,4,2.5,0,15,60,8,0,6,0,5
+"McCafe Iced Mocha Latte, Large",440,14,9,0.5,50,190,67,1,59,44,11
+"McCafe Iced Mocha Latte, Medium",320,11,7,0,40,135,47,1,41,31,8
+"McCafe Iced Mocha Latte, Small",270,10,6,0,35,115,39,1,33,24,7
+"McCafe Latte, Large",250,12,7,0.5,45,160,22,0,17,0,13
+"McCafe Latte, Medium",190,9,5,0,35,120,17,0,13,0,10
+"McCafe Latte, Small",140,7,4,0,25,90,13,0,10,0,8
+"McCafe Mocha Frappe, Large",660,26,17,1,95,190,97,1,81,72,11
+"McCafe Mocha Frappe, Medium",490,20,13,0.5,75,140,72,0,60,53,8
+"McCafe Mocha Frappe, Small",430,17,11,0.5,65,120,61,0,51,45,7
+"McCafe Mocha Latte, Large",460,14,9,0.5,50,210,68,1,60,42,14
+"McCafe Mocha Latte, Medium",370,11,7,0,40,160,56,1,49,36,10
+"McCafe Mocha Latte, Small",290,9,5,0,30,125,45,1,39,29,8
+"McCafe Premium Roast Coffee, Large",10,0,0,0,0,15,2,0,0,0,1
+"McCafe Premium Roast Coffee, Medium",10,0,0,0,0,10,1,0,0,0,1
+"McCafe Premium Roast Coffee, Small",5,0,0,0,0,10,1,0,0,0,0
+1% Low Fat Milk Jug,100,2,1.5,0,10,80,12,0,11,0,8
+"Coca-Cola, Extra Small",150,0,0,0,0,40,40,0,40,40,0
+"Coca-Cola, Large",380,0,0,0,0,95,100,0,100,100,0
+"Coca-Cola, Medium",270,0,0,0,0,65,70,0,70,70,0
+"Coca-Cola, Small",200,0,0,0,0,50,53,0,53,53,0
+"Diet Coke, Extra Small",0,0,0,0,0,50,0,0,0,0,0
+"Diet Coke, Large",0,0,0,0,0,50,0,0,0,0,0
+"Diet Coke, Medium",0,0,0,0,0,50,0,0,0,0,0
+"Diet Coke, Small",0,0,0,0,0,50,0,0,0,0,0
+"Dr Pepper, Extra Small",140,0,0,0,0,45,39,0,38,38,0
+"Dr Pepper, Large",360,0,0,0,0,110,98,0,96,96,0
+"Dr Pepper, Medium",250,0,0,0,0,75,68,0,67,67,0
+"Dr Pepper, Small",190,0,0,0,0,60,52,0,51,51,0
+"Fanta Orange, Large",380,0,0,0,0,100,101,0,99,99,0
+"Fanta Orange, Medium",270,0,0,0,0,70,71,0,69,69,0
+"Fanta Orange, Small",210,0,0,0,0,55,54,0,53,53,0
+"Frozen Coca-Cola Classic, Large",110,0,0,0,0,45,29,0,29,29,0
+"Frozen Coca-Cola Classic, Medium",80,0,0,0,0,30,21,0,21,21,0
+"Frozen Coca-Cola Classic, Small",60,0,0,0,0,25,16,0,16,16,0
+"Frozen Fanta Blue Raspberry, Large",110,0,0,0,0,50,29,0,29,29,0
+"Frozen Fanta Blue Raspberry, Medium",80,0,0,0,0,35,20,0,20,20,0
+"Frozen Fanta Blue Raspberry, Small",60,0,0,0,0,30,16,0,16,16,0
+"Hi-C Orange Lavaburst, Extra Small",160,0,0,0,0,40,42,0,42,42,0
+"Hi-C Orange Lavaburst, Large",410,0,0,0,0,100,104,0,104,104,0
+"Hi-C Orange Lavaburst, Medium",280,0,0,0,0,70,73,0,73,73,0
+"Hi-C Orange Lavaburst, Small",220,0,0,0,0,55,56,0,56,56,0
+Honest Kids Appley Ever After Organic Juice Drink,35,0,0,0,0,15,8,0,8,0,0
+"Hot Tea, Large",15,0,0,0,0,10,0,0,0,0,3
+"Hot Tea, Medium",10,0,0,0,0,5,0,0,0,0,3
+"Hot Tea, Small",10,0,0,0,0,5,0,0,0,0,2
+"Lemonade, Large",270,0,0,0,0,15,68,0,63,52,1
+"Lemonade, Medium",190,0,0,0,0,10,48,0,45,37,1
+"Lemonade, Small",120,0,0,0,0,5,31,0,29,24,0
+"Mango Pineapple Smoothie, Large",340,1,0.5,0,<5,60,78,2,72,60,4
+"Mango Pineapple Smoothie, Medium",250,1,0,0,<5,45,57,1,52,43,3
+"Mango Pineapple Smoothie, Small",200,0.5,0,0,<5,35,45,1,42,34,2
+"McCafe Hot Chocolate, Large",540,20,12,0.5,60,280,73,0,68,0,17
+"McCafe Hot Chocolate, Medium",440,15,9,0.5,55,210,62,1,55,36,14
+"McCafe Hot Chocolate, Small",360,12,8,0,45,170,51,1,45,29,11
+"Minute Maid Premium Orange Juice, Large",270,0,0,0,0,65,65,1,58,0,4
+"Minute Maid Premium Orange Juice, Medium",190,0,0,0,0,45,45,1,41,0,3
+"Minute Maid Premium Orange Juice, Small",150,0,0,0,0,35,36,1,32,0,2
+Reduced Sugar Low Fat Chocolate Milk Jug,130,2.5,1.5,0,10,85,18,0,14,3,9
+"Sprite, Extra Small",140,0,0,0,0,70,36,0,36,36,0
+"Sprite, Large",350,0,0,0,0,170,91,0,91,91,0
+"Sprite, Medium",250,0,0,0,0,120,64,0,64,64,0
+"Sprite, Small",190,0,0,0,0,90,49,0,49,49,0
+"Strawberry Banana Smoothie, Large",330,1,0.5,0,<5,70,76,0,68,0,4
+"Strawberry Banana Smoothie, Medium",240,1,0,0,<5,50,55,3,49,49,3
+"Strawberry Banana Smoothie, Small",190,0.5,0,0,<5,40,44,2,39,39,2
+"Sweet Tea, Extra Small",70,0,0,0,0,10,18,0,17,17,0
+"Sweet Tea, Large",170,0,0,0,0,25,43,0,40,40,1
+"Sweet Tea, Medium",130,0,0,0,0,20,31,0,29,29,1
+"Sweet Tea, Small",170,0,0,0,0,15,42,0,40,40,1
+"Unsweetened Iced Tea, Extra Small",0,0,0,0,0,10,0,0,0,0,1
+"Unsweetened Iced Tea, Large",0,0,0,0,0,20,0,0,0,0,1
+"Unsweetened Iced Tea, Medium",0,0,0,0,0,15,0,0,0,0,1
+"Unsweetened Iced Tea, Small",0,0,0,0,0,10,0,0,0,0,1
