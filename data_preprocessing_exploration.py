@@ -50,24 +50,28 @@ def numerical_distribution(feature):
     plt.figure(figsize = (12, 5))
 
     plt.subplot(1, 2, 1)
-    sns.histplot(feature)
-    plt.title("Histogram")
+    sns.histplot(data[feature])
+    plt.title("Histogram of {}".format(feature))
 
     plt.subplot(1, 2, 2)
-    sns.boxplot(feature)
-    plt.title("Boxplot")
-    plt.show()
+    sns.boxplot(data[feature])
+    plt.title("Boxplot of {}".format(feature))
+    plt.savefig("histogram_boxplot_for_{}.png".format(feature))
+    plt.close()
 
 def categorical_distribution(feature):
-    sns.barplot(feature)
-    plt.show()
+    sns.barplot(data[feature])
+    plt.savefig("barplot_for_{}.png".format(feature))
+    plt.close()
+    
 
 def numerical_correlation_matrix(feature):
     corr_df = feature.corr(method = "pearson")
 
     plt.figure(figsize = (12, 5))
     sns.heatmap(corr_df, annot = True, fmt = '.2f', cmap = 'coolwarm')
-    plt.show()
+    plt.savefig("Correlation Matrix for Numerical Features.png")
+    plt.close()
 
 def label_encoder(data, feature):
     le = LabelEncoder()
@@ -102,10 +106,11 @@ def feature_selection(model, param_grid, X_train, y_train):
 
     plt.figure(figsize = (8, 5))
     coef.plot(kind = "bar", color = "navy")
-    plt.title("Lasso Feature Selection")
+    plt.title("Lasso Feature Selection Analysis")
     plt.xlabel("Features")
     plt.ylabel("Coefficient Values")
-    plt.show()
+    plt.savefig("Lasso Coefficient for Feature Selection Analysis.png")
+    plt.close()
 
 def save_preprocessed_data(X_train, X_test, y_train, y_test, file_path):
     joblib.dump((X_train, X_test, y_train, y_test), file_path)
@@ -120,20 +125,20 @@ if __name__ == "__main__":
     data = convert_data_types(data)
 
     # visualize the categorical data distribution
-    categorical_distribution(data['Type'])
+    categorical_distribution("Type")
 
     # visualized the numerical data distribution 
-    numerical_distribution(data['Calories'])
-    numerical_distribution(data['Total Fat'])
-    numerical_distribution(data['Saturated Fat'])
-    numerical_distribution(data['Trans Fat'])
-    numerical_distribution(data['Cholesterol'])
-    numerical_distribution(data['Sodium'])
-    numerical_distribution(data['Total Carbohydrates'])
-    numerical_distribution(data['Dietary Fiber'])
-    numerical_distribution(data['Sugars'])
-    numerical_distribution(data['Added Sugars'])
-    numerical_distribution(data['Protein'])
+    numerical_distribution("Calories")
+    numerical_distribution("Total Fat")
+    numerical_distribution("Saturated Fat")
+    numerical_distribution("Trans Fat")
+    numerical_distribution("Cholesterol")
+    numerical_distribution("Sodium")
+    numerical_distribution("Total Carbohydrates")
+    numerical_distribution("Dietary Fiber")
+    numerical_distribution("Sugars")
+    numerical_distribution("Added Sugars")
+    numerical_distribution("Protein")
 
     # drop food menu - irrelevant feature 
     data = data.drop(['Food Menu'], axis = 1)
