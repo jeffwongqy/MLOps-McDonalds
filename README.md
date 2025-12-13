@@ -47,3 +47,9 @@ To manage project code, changes are first staged using `git add`, then committed
 
 <img src = "images/git_command.png" width = "400">
 
+## **References:**
+James, G., Witten, D., Hastie, T., & Tibshirani, R. (2023).
+An introduction to statistical learning: With applications in Python (2nd ed.).
+Springer.
+
+
