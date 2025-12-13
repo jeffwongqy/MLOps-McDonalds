@@ -32,5 +32,5 @@ The trained regression models were evaluated on both training and test datasets 
 ## **Jenkins Pipeline:**
 The Jenkins pipeline automates the end-to-end workflow of the calorie prediction project. It includes stages for environment setup (installing Python packages), data loading and preprocessing, model training, and model evaluation. After execution, trained models and artifacts (.pkl files) are archived for tracking and future use, ensuring reproducible and automated ML workflows.
 
-<img src = "images/jenkinsfile_p1.png" width = "250">
+<img src = "images/jenkinsfile_p1.png" width = "700">
 
