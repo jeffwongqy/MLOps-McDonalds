@@ -27,4 +27,4 @@ Preprocessed McDonald’s nutrition data was used to train multiple regression m
 ## **Model Evaluation:**
 The trained regression models were evaluated on both training and test datasets using metrics including R², Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE). This evaluation quantified how well each model predicted calorie values, allowing comparison of model performance and selection of the most accurate model for deployment.
 
-<img src = "images/model_evaluate.png" width = "150">
+<img src = "images/model_evaluate.png" width = "200">
