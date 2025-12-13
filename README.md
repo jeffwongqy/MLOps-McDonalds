@@ -32,6 +32,8 @@ The trained regression models were evaluated on both training and test datasets 
 ## **Jenkins Configuration & Pipeline:**
 Jenkins was configured as a continuous integration tool to automate the machine learning workflow. The pipeline installs required dependencies, executes data preprocessing and exploratory analysis, trains multiple machine learning models, and evaluates their performance in a structured sequence of stages. This automated pipeline ensures consistent execution, early detection of errors, and reproducible model training and evaluation across different runs. 
 
+<img src = "images/jenkins_pipeline.png" width = "700">
+
 <img src = "images/jenkinsfile_p1.png" width = "700">
 
 <img src = "images/jenkinsfile_p2.png" width = "700">
