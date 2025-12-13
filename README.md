@@ -41,7 +41,7 @@ The Jenkins pipeline automates the end-to-end workflow of the calorie prediction
 <img src = "images/pipeline_config_p2.png" width = "700">
 
 ## **Git Worflow:**
-To manage project code, changes are first staged using git add, then committed locally with `git commit -m "message"`, 
+To manage project code, changes are first staged using `git add`, then committed locally with `git commit -m "message"`, and finally pushed to the remote repository using `git push`. This workflow ensures that all code updates are tracked, versioned, and synchronized with GitHub for collaboration and reproducibility. 
 
 <img src = "images/git_command.png" width = "400">
 
