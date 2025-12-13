@@ -34,3 +34,7 @@ The Jenkins pipeline automates the end-to-end workflow of the calorie prediction
 
 <img src = "images/jenkinsfile_p1.png" width = "700">
 
+<img src = "images/jenkinsfile_p2.png" width = "700">
+
+<img src = "images/jenkins_config.png" width = "700">
+
