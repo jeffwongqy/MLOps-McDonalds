@@ -41,9 +41,7 @@ The Jenkins pipeline automates the end-to-end workflow of the calorie prediction
 <img src = "images/pipeline_config_p2.png" width = "700">
 
 ## **Git Worflow:**
-1. Stage Changes - git add --> Adds changes from my working directory to the staging area, preparing them for a commit.
-2. Commit Changes - git commit --> Records the staged changes in the local repository with a descriptive message.
-3. Push Changes - git push --> Sends my committed changes from the local repository to a remote repository (e.g. GitHub).
+To manage project code, changes are first staged using git add, then committed locally with `git commit -m "message"`, 
 
-<img src = "images/git_command.png" width = "700">
+<img src = "images/git_command.png" width = "400">
 
