@@ -29,7 +29,7 @@ The trained regression models were evaluated on both training and test datasets 
 
 <img src = "images/model_evaluate.png" width = "250">
 
-## **Jenkins Pipeline:**
+## **Jenkins Configuration & Pipeline:**
 The Jenkins pipeline automates the end-to-end workflow of the calorie prediction project. It includes stages for environment setup (installing Python packages), data loading and preprocessing, model training, and model evaluation. After execution, trained models and artifacts (.pkl files) are archived for tracking and future use, ensuring reproducible and automated ML workflows.
 
 <img src = "images/jenkinsfile_p1.png" width = "700">
@@ -39,4 +39,11 @@ The Jenkins pipeline automates the end-to-end workflow of the calorie prediction
 <img src = "images/pipeline_config_p1.png" width = "700">
 
 <img src = "images/pipeline_config_p2.png" width = "700">
+
+## **Git Worflow:**
+1. Stage Changes - git add --> Adds changes from my working directory to the staging area, preparing them for a commit.
+2. Commit Changes - git commit --> Records the staged changes in the local repository with a descriptive message.
+3. Push Changes - git push --> Sends my committed changes from the local repository to a remote repository (e.g. GitHub).
+
+<img src = "images/git_command.png" width = "700">
 
